@@ -178,7 +178,7 @@ This project was created as an educational exploration of:
 
 ## Contact
 
-Sushil Kumar - [@sushil825](https://github.com/sushil825)
+Sushil Chettri - [@sushil825](https://github.com/sushil825)
 
 Project Link: [https://github.com/sushil825/ascii-camera](https://github.com/sushil825/ascii-camera)
 
